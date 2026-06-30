@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Parallel Space Clone</string>
+    <string name="app_list">Select App</string>
+    <string name="add_app">Add App</string>
+    <string name="clone_app">Clone</string>
+    <string name="no_apps">No cloned apps yet.\nTap + to add an app.</string>
+    <string name="loading">Loading...</string>
+    <string name="launch">Launch</string>
+    <string name="remove">Remove</string>
+</resources>

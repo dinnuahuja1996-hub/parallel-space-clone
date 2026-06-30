@@ -1,0 +1,5 @@
+-keep class com.parallelspace.clone.** { *; }
+-keep class com.lody.virtual.** { *; }
+-keep class io.virtualapp.** { *; }
+-dontwarn com.lody.**
+-dontwarn io.virtualapp.**
